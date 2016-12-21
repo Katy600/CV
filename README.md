@@ -65,6 +65,6 @@ Working at an international school in Bangkok, Thailand.
 *Nursery Teacher*
 
 ## Interests
-*Dancing* - I enjoy dance in all its forms but I particularly love to swing dance. It is also great to combine with traveling. So far I have danced in Bangkok, South Korea, Sweden, Cambodia and HongKong.
+*Dancing* - I enjoy dance in all its forms but I particularly love to swing dance. It is also great to combine with traveling. So far I have danced in Bangkok, South Korea, Sweden, Cambodia and HongKong.<br />
 
 *Short Films* - Collaborating in the creation of spontaneous film ideas with friends.
