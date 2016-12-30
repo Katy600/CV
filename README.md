@@ -23,7 +23,7 @@ Teaching is a dynamic profession which is constantly changing and you are expect
 
 ## Projects
 <table>
-<tr><th>Project</th><th>Description</th><th>Timeframe</th><th>Technologies>/th></tr>
+<tr><th>Project</th><th>Description</th><th>Timeframe</th><th>Technologies></th></tr>
 <tr><td>Drawsome</td><td> A drawing app game</td><td>10 days</td><td>Swift, xcode, Websocket, Node.js</td></tr>
 <tr><td>Story-teller</td><td> An app that aids children in developing reading skills.</td><td>5 days</td><td> Javascript, Node.js</td></tr>
 </table>
