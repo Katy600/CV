@@ -12,7 +12,7 @@ I am now looking for a Full Stack Junior Developer role in a vibrant company wit
 #### Communication skills
 Communication is a key component of teaching and spans a multitude of levels.
 -  Being able to break down challenging concepts.
--  Communicating lesson plans with colleagues.
+-  Communicating lesson plans effectively with colleagues.
 -  Talking with parents on both a professional level whilst being approachable.
 
 
