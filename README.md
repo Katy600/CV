@@ -14,26 +14,27 @@ Working as a teacher enabled me to develop skills such as being able to:
 -  Share lesson plans effectively with colleagues.
 -  Deliver pupil feedback to parents in a professional yet approachable manner.
 
-During my time at Makers I developed effective pairing skills through:
-- Discussing what we wanted to achieve together.
-- Breaking down ideas and problem through diagramming and chunking.  
-- Taking turns to navigate and drive
-- Being encouraging about each others ideas and being open to change.
+During my time at Makers I developed effective pairing skills and was able to:
+- Discuss what we want to achieve as a pair.
+- Break down ideas and problems through diagramming and chunking.  
+- Take regular turns to navigate and drive.
+- Support each others in our differing ideas and stay open to change.
 
 #### Collaboration
 Working as a part of a team within a school has led me to value practices such as:
 - Regular planning meetings which create a sense of purpose and focus.
 - A culture of sharing resources, ideas, honest reflections and a mutural desire to improve our practice through creative and solution based approaches.
 
-During our project week at Makers we developed practices such as:
+During our project week at Makers we:
 - Held regular standups and retros.
-- Used Waffle to support us in managing our issues, achieve our MVP and manage our work flow effectively.
+- Used Waffle to support us in managing our issues; achieve our MVP and manage our work flow effectively.
 
 #### Rising to new challenges
 Teaching is a dynamic and agile profession which is constantly changing. Consequently I:
 - Taught the new IT curriculum, introducing children to HTML; coding with the software 'Scratch'; investigating the internet and editing a Wiki page.
 - Learned and implemented new pedagogical approaches.
 - Adapted to the continual revisions of the curriculum.
+
 During Makers:
 - Our final project involved learning Xcode and Swift 3 in order to build a realtime, multiplayer drawing game in just 2 weeks.
 
