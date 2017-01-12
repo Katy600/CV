@@ -1,6 +1,6 @@
 ## Katy McCann
 
-I am a full-stack junior developer recently graduated from [Makers Academy](http://www.makersacademy.com/) and former primary school teacher.
+I am a full-stack junior developer, recently graduated from [Makers Academy](http://www.makersacademy.com/) and former primary school teacher.
 From teacher to coder seemed at first, an unlikely transition but now in retrospect it was meant to be.
 
 Researching new material, communicating ideas effectively, designing visual and interactive learning experiences with the use of interactive whiteboards as well as the creative process of planning lessons, all now seem to align perfectly with my experience of evolving myself into a software developer.
@@ -24,8 +24,8 @@ Teaching is a dynamic profession which is constantly changing and you are expect
 ## Projects
 <table>
 <tr><th>Project</th><th>Description</th><th>Timeframe</th><th>Technologies</th></tr>
-<tr><td>Drawsome</td><td> A drawing app game</td><td>10 days</td><td>Swift, xcode, Websocket, Node.js</td></tr>
-<tr><td>Story-teller</td><td> An app that aids children in developing reading skills.</td><td>5 days</td><td> Javascript, Node.js</td></tr>
+<tr><td>[Drawsome](https://github.com/Katy600/drawApp)</td><td> Drawsome is an iOS drawing game application that allows players to draw and send pictures to their friends to guess</td><td>10 days</td><td>Swift 3, Xcode, Websockets, Node.js</td></tr>
+<tr><td>[Story-teller](https://github.com/Katy600/story-app)</td><td> Story-teller, is a JavaScript single-page application that allows children to dynamically select words to complete a story.</td><td>5 days</td><td> Javascript, JQuery, HTML, CSS </td></tr>
 </table>
 
 
