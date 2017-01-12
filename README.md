@@ -16,7 +16,7 @@ I am now looking for a full stack junior developer role in a vibrant company wit
 
 #### Collaboration
 Working as a part of a team within a school has led me to value practices such as:
-- Regular planning meetings which create a sense of purpose and enable everyone to focused on what is a priority.
+- Regular planning meetings which create a sense of purpose and focus.
 - A culture of sharing resources, ideas, honest reflections and a mutural desire to improve our practice through creative and solution based approaches.
 
 #### Rising to new challenges
