@@ -1,7 +1,7 @@
 ## Katy McCann
-I am a full stack junior developer, recently graduated from [Makers Academy](http://www.makersacademy.com/) and former primary school teacher.
+I am a full stack junior developer, recently graduated from [Makers Academy](http://www.makersacademy.com/) *say something about how amazing Makers is to infer that you must also be awesome (which of course you are!!)*
 
-As a teacher, I was adept at researching new material, communicating ideas effectively and designing and planning visual and interactive learning experiences, all of which are transferrable to software development.
+As a former primary school teacher, I am adept at researching new material, communicating ideas effectively and designing and planning visual and interactive learning experiences, all of which are transferrable to software development.
 
 My drive to learn how to code was initially fuelled by *can you sum up this idea in 5 words or less* and this led me to seek out online resources such as Codecademy and get involved with Meetup groups including codebar.
 
