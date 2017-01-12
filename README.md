@@ -12,21 +12,27 @@ I am now looking for a Full Stack Junior Developer role in a vibrant company wit
 ## Skills
 
 #### Communication skills
-Communication is a key component of teaching and spans a multitude of levels. Being able to break down challenging concepts, communicating lesson plans with colleagues and being available to talk with parents on both a professional level but equally with an openness that makes you approachable.
+Communication is a key component of teaching and spans a multitude of levels.
+-  Being able to break down challenging concepts.
+-  Communicating lesson plans with colleagues.
+-  Talking with parents on both a professional level but equally making yourself approachable.
 
 
 #### Collaboration
 Working with colleagues who have a mutual desire to share resources, ideas, struggles and solutions has always elevated my enjoyment for my job, challenging me to take on new approaches, new ways of seeing things as well as the overall feeling of shared success.
 
 #### Taking on new challenges
-Teaching is a dynamic profession which is constantly changing and you are expected to take on new approaches and the continual revisions to the curriculum. I was part of teaching the new IT curriculum, which involved introducing children to HTML; an introduction to coding through the software 'Scratch'; and aspects such as, exploring what the internet is and editing a Wiki page.
+Teaching is a dynamic and agile profession which is constantly changing. During my 8 years of teaching I had to take on:
+- New pedagogical approaches.
+- Continual revisions to the curriculum.
+- Teach the new IT curriculum, introducing children to HTML; coding with the software 'Scratch'; and exploring what the internet is and editing a Wiki page.
 
 ## Projects
-<table>
-<tr><th>Project</th><th>Description</th><th>Timeframe</th><th>Technologies</th></tr>
-<tr><td>[Drawsome](https://github.com/Katy600/drawApp)</td><td> Drawsome is an iOS drawing game application that allows players to draw and send pictures to their friends to guess</td><td>10 days</td><td>Swift 3, Xcode, Websockets, Node.js</td></tr>
-<tr><td>[Story-teller](https://github.com/Katy600/story-app)</td><td> Story-teller, is a JavaScript single-page application that allows children to dynamically select words to complete a story.</td><td>5 days</td><td> Javascript, JQuery, HTML, CSS </td></tr>
-</table>
+
+|Project   |Description       |Timeframe|Technologies|
+|-----------|:-----------------:|:-------:|------------|
+|[Drawsome](https://github.com/Katy600/drawApp) [Demo](https://www.youtube.com/watch?v=LcoMpC1xh1c)|Drawsome is an iOS drawing game application that allows players to draw and send pictures to their friends to guess</td><td>10 days</td><td>Swift 3, Xcode, Websockets, Node.js</td></tr>          
+|[Story-teller](https://github.com/Katy600/story-app)| Story-teller is a JavaScript single-page application that allows children to dynamically select words to complete a story.|5 days |Javascript, JQuery, HTML, CSS
 
 
 ## Education
