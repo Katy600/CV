@@ -1,29 +1,28 @@
 ## Katy McCann
-I am a full-stack junior developer, recent graduated from [Makers Academy](http://www.makersacademy.com/) and former primary school teacher.
-From teacher to coder seemed at first, an unlikely transition but now in retrospect it was meant to be.
+I am a full stack junior developer, recently graduated from [Makers Academy](http://www.makersacademy.com/) *say something about how amazing Makers is to infer that you must also be awesome (which of course you are!!)*
 
-Researching new material, communicating ideas effectively, designing visual and interactive learning experiences with the use of interactive whiteboards as well as the creative process of planning lessons, all now seem to align perfectly with my experience of evolving myself into a software developer.
+As a former primary school teacher, I am adept at researching new material, communicating ideas effectively and designing and planning visual and interactive learning experiences, all of which are transferrable to software development.
 
-My drive to learn how to code was initially fuelled by an idea that I really wanted to create and this led me to stumble upon online resources, such as Code Academy and to eventually discover the Meetup group Code-bar.
+My drive to learn how to code was initially fuelled by *can you sum up this idea in 5 words or less* and this led me to seek out online resources such as Codecademy and get involved with Meetup groups including codebar.
 
-I am now looking for a Full Stack Junior Developer role in a vibrant company with a culture of paired coding, shared knowledge and where I can continue to learn to my full capacity.
+I am now looking for a full stack junior developer role in a vibrant company with a culture of paired coding and sharing knowledge in which I can continue to learn to my full capacity.
 
 ## Skills
 #### Communication skills
-Communication is a key component of teaching and spans a multitude of levels.
--  Being able to break down challenging concepts.
--  Communicating lesson plans effectively with colleagues.
--  Talking with parents on both a professional level whilst being approachable.
+-  Break down challenging concepts for a range of ages and levels.
+-  Share lesson plans effectively with colleagues.
+-  Deliver pupil feedback to parents in a professional yet approachable manner. *maybe say more here about being able to give negative feedback in a way that challenges and encouges???*
 
 
 #### Collaboration
+*This paragraph doesn't say much aside from that you enjoyed doing it and it helped you...try to say what you did and how it helped other people, like above - look at the SMART stuff Zara was talking about*
 Working with colleagues who have a mutual desire to share resources, ideas, struggles and solutions has always elevated my enjoyment for my job, challenging me to take on new approaches, new ways of seeing things as well as the overall feeling of shared success.
 
-#### Taking on new challenges
-Teaching is a dynamic and agile profession which is constantly changing. During my 8 years of teaching I had to take on:
-- New pedagogical approaches.
-- Continual revisions to the curriculum.
-- Keep up-to-date with the new IT curriculum, introducing children to HTML; coding with the software 'Scratch'; investigating the internet and editing a Wiki page.
+#### Rising to new challenges
+Teaching is a dynamic and agile profession which is constantly changing. Consequently I:
+- Taught the new IT curriculum, introducing children to HTML; coding with the software 'Scratch'; investigating the internet and editing a Wiki page.
+- Learned and implemented new pedagogical approaches.
+- *Dealt with - think of a word which sounds less like it was forced upon you (even though I know it was!) and more like you mastered it* continual revisions to the curriculum.
 
 ## Projects
 
@@ -44,29 +43,29 @@ A 16-week intensive development bootcamp, emphasising:
 - Rspec, Jasmine
 
 #### Institute of Education: (2007 – 2008)
-Primary PGCE with an Art Specialism in association with Quentin Blake.
+Primary PGCE with an Art Specialism in association with Quentin Blake. *maybe be a bit more clear about the link with Quentin Blake....like, did you actually get to meet him or something?*
 
 #### University of Sussex (1999-2002)
-Social Anthropology with development studies BA 2:1
+Social Anthropology with Development Studies BA 2:1
 
 ## Experience
 **Old Ford Primary School** (Sept 2015 - July 2016)
 *PPA Cover*
-This involved teaching French, ICT and PE across Key Stage 2 in a three form entry school.
+Teach French, ICT and PE across Key Stage 2 in a three form entry school.
 
 **RedBox Teaching** (October 2015 - July 2016  )
 *Supply Teaching*
-On returning from Thailand I worked at numerous schools across London doing day-to-day supply as well as long term jobs.
+Numerous schools across London doing day-to-day supply as well as long term jobs.
 
 **Garden International School** (August 2012 - June 2014)
 *Nursery Teacher*
-Working at an international school in Bangkok, Thailand.
+International school in Bangkok, Thailand.
 *After school Clubs* - Improvisation club; chess club and computer club.
 
 **Hague Primary School** (September 2011 - July 2012),
 *Nursery Teacher*
 
 ## Interests
-*Dancing* - I enjoy dance in all its forms but I particularly love to swing dance. It is also great to combine with traveling. So far I have danced in Bangkok, South Korea, Sweden, Cambodia and HongKong.
+*Dancing* - I enjoy dance in all its forms but I particularly love to swing dance. It is also great to combine with travelling. So far I have danced in Bangkok, South Korea, Sweden, Cambodia and HongKong.
 
 *Short Films* - Collaborating in the creation of spontaneous film ideas with friends.
