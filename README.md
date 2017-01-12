@@ -12,7 +12,7 @@ I am now looking for a full stack junior developer role in a vibrant company wit
 - Break down challenging concepts for a range of ages and levels.
 -  Share lesson plans effectively with colleagues.
 -  Deliver pupil feedback to parents in a professional yet approachable manner.
-
+- Effective paired-programming: where I enjoy both sharing and taking on board different approaches during my time at Makers.
 
 #### Collaboration
 Working as a part of a team within a school has led me to value practices such as:
