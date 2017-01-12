@@ -3,7 +3,7 @@ I am a full-stack junior developer, recent graduated from [Makers Academy](http:
 
 As a teacher, I am adept at researching new material, communicating ideas effectively and designing and planning visual and interactive learning experiences, all of which are transferrable to software development.
 
-My drive to learn how to code was initially fuelled by a web app idea which aimed to match teachers, their skills, educational philosophies and values to their ideal school. This project led me to seek out online resources such as Codeacademy and get involved in Meetup groups including Codebar.
+My drive to learn how to code was initially fuelled by a web app idea which aimed to match teachers skills, educational philosophies and values to their ideal school. This project led me to seek out online resources such as Codeacademy and get involved in Meetup groups including Codebar.
 
 I am now looking for a full stack junior developer role in a vibrant company with a culture of paired coding and sharing knowledge in which I can continue to learn to my full capacity.
 
@@ -15,7 +15,9 @@ I am now looking for a full stack junior developer role in a vibrant company wit
 
 
 #### Collaboration
-Working with colleagues who have a mutual desire to share resources, ideas, struggles and solutions has always elevated my enjoyment for my job, challenging me to take on new approaches, new ways of seeing things as well as the overall feeling of shared success.
+Working as a part of a team within a school has led me to value practices such as:
+- Regular planning meetings which create a sense of purpose and enable everyone to focused on what is a priority.
+- A culture of sharing resources, ideas, honest reflections and a mutural desire to improve our practice through creative and solution based approaches.
 
 #### Rising to new challenges
 Teaching is a dynamic and agile profession which is constantly changing. Consequently I:
