@@ -9,21 +9,33 @@ I am now looking for a full stack junior developer role in a vibrant company wit
 
 ## Skills
 #### Communication skills
+Working as a teacher enabled me to develop skills such as being able to:
 - Break down challenging concepts for a range of ages and levels.
 -  Share lesson plans effectively with colleagues.
 -  Deliver pupil feedback to parents in a professional yet approachable manner.
-- Effective paired-programming: where I enjoy both sharing and taking on board different approaches during my time at Makers.
+
+During my time at Makers I developed effective pairing skills through:
+- Discussing what we wanted to achieve together.
+- Breaking down ideas and problem through diagramming and chunking.  
+- Taking turns to navigate and drive
+- Being encouraging about each others ideas and being open to change.
 
 #### Collaboration
 Working as a part of a team within a school has led me to value practices such as:
 - Regular planning meetings which create a sense of purpose and focus.
 - A culture of sharing resources, ideas, honest reflections and a mutural desire to improve our practice through creative and solution based approaches.
 
+During our project week at Makers we developed practices such as:
+- Held regular standups and retros.
+- Used Waffle to support us in managing our issues, achieve our MVP and manage our work flow effectively.
+
 #### Rising to new challenges
 Teaching is a dynamic and agile profession which is constantly changing. Consequently I:
 - Taught the new IT curriculum, introducing children to HTML; coding with the software 'Scratch'; investigating the internet and editing a Wiki page.
 - Learned and implemented new pedagogical approaches.
 - Adapted to the continual revisions of the curriculum.
+During Makers:
+- Our final project involved learning Xcode and Swift 3 in order to build a realtime, multiplayer drawing game in just 2 weeks.
 
 ## Projects
 
@@ -44,7 +56,7 @@ A 16-week intensive development bootcamp, emphasising:
 - Rspec, Jasmine
 
 #### Institute of Education: (2007 – 2008)
-Primary PGCE with an Art Specialism in association with Quentin Blake. This involved a exploring illustration and presenting the final work in a gallery alongside
+Primary PGCE with an Art Specialism in association with Quentin Blake. It resulted in a final class project being displayed in a gallery.
 
 #### University of Sussex (1999-2002)
 Social Anthropology with Development studies BA 2:1
