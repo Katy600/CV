@@ -1,7 +1,7 @@
 ## Katy McCann
 I am a full-stack junior developer, recent graduated from [Makers Academy](http://www.makersacademy.com/) Europe's leading web development bootcamp, and former primary school teacher.
 
-As a former primary school teacher, I am adept at researching new material, communicating ideas effectively and designing and planning visual and interactive learning experiences, all of which are transferrable to software development.
+As a teacher, I am adept at researching new material, communicating ideas effectively and designing and planning visual and interactive learning experiences, all of which are transferrable to software development.
 
 My drive to learn how to code was initially fuelled by a web app idea which aimed to match teachers, their skills, educational philosophies and values to their ideal school. This project led me to seek out online resources such as Codeacademy and get involved in Meetup groups including Codebar.
 
