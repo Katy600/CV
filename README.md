@@ -15,8 +15,8 @@ As a teacher I develop skills such as being able to:
 -  Deliver pupil feedback to parents in a professional yet approachable manner.
 
 At Makers I developed effective pairing skills and was able to:
-- Discuss what we want to achieve as a pair.
-- Break down ideas and problems through diagramming and chunking.  
+- Break down ideas and problems
+through discussion and diagramming.
 - Take regular turns to navigate and drive.
 - Support each other in our differing ideas and stay open to change.
 
@@ -26,7 +26,7 @@ As part of a team within a school led me to value practices such as:
 - A culture of sharing resources, ideas, honest reflections and a mutual desire to improve our practice through creative and solution based approaches.
 
 During project week at Makers we:
-- Held regular standups and retros.
+- Held regular stand-ups and retros.
 - Used Waffle to support us in managing our issues, achieve our MVP and manage our work flow effectively.
 
 #### Rising to new challenges
