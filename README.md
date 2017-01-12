@@ -3,37 +3,37 @@ I am a full-stack junior developer, recent graduated from [Makers Academy](http:
 
 As a teacher, I am adept at researching new material, communicating ideas effectively and designing and planning visual and interactive learning experiences, all of which are transferrable to software development.
 
-My drive to learn how to code was initially fuelled by a web app idea which aimed to match teachers skills, educational philosophies and values to their ideal school. This project led me to seek out online resources such as Codeacademy and get involved in Meetup groups including Codebar.
+My drive to learn how to code was initially fuelled by a web app idea as an aid for teachers. This project led me to seek out online resources such as Codeacademy and get involved in Meetup groups including Codebar.
 
-I am now looking for a full stack junior developer role in a vibrant company with a culture of paired coding and sharing knowledge in which I can continue to learn to my full capacity.
+I am now looking for a full stack junior developer role in a vibrant company with a culture of paired coding and shared knowledge in which I can continue to learn to my full capacity.
 
 ## Skills
 #### Communication skills
-Working as a teacher enabled me to develop skills such as being able to:
+As a teacher I develop skills such as being able to:
 - Break down challenging concepts for a range of ages and levels.
 -  Share lesson plans effectively with colleagues.
 -  Deliver pupil feedback to parents in a professional yet approachable manner.
 
-During my time at Makers I developed effective pairing skills and was able to:
+At Makers I developed effective pairing skills and was able to:
 - Discuss what we want to achieve as a pair.
 - Break down ideas and problems through diagramming and chunking.  
 - Take regular turns to navigate and drive.
-- Support each others in our differing ideas and stay open to change.
+- Support each other in our differing ideas and stay open to change.
 
 #### Collaboration
-Working as a part of a team within a school has led me to value practices such as:
+As part of a team within a school led me to value practices such as:
 - Regular planning meetings which create a sense of purpose and focus.
-- A culture of sharing resources, ideas, honest reflections and a mutural desire to improve our practice through creative and solution based approaches.
+- A culture of sharing resources, ideas, honest reflections and a mutual desire to improve our practice through creative and solution based approaches.
 
-During our project week at Makers we:
+During project week at Makers we:
 - Held regular standups and retros.
-- Used Waffle to support us in managing our issues; achieve our MVP and manage our work flow effectively.
+- Used Waffle to support us in managing our issues, achieve our MVP and manage our work flow effectively.
 
 #### Rising to new challenges
 Teaching is a dynamic and agile profession which is constantly changing. Consequently I:
-- Taught the new IT curriculum, introducing children to HTML; coding with the software 'Scratch'; investigating the internet and editing a Wiki page.
+- Taught the new IT curriculum, introducing children to HTML, coding with the software 'Scratch', investigating the internet and editing a Wiki page.
 - Learned and implemented new pedagogical approaches.
-- Adapted to the continual revisions of the curriculum.
+- Adapted to the continual revision of the curriculum.
 
 During Makers:
 - Our final project involved learning Xcode and Swift 3 in order to build a realtime, multiplayer drawing game in just 2 weeks.
