@@ -24,8 +24,8 @@ Teaching is a dynamic profession which is constantly changing and you are expect
 ## Projects
 <table>
 <tr><th>Project</th><th>Description</th><th>Timeframe</th><th>Technologies</th></tr>
-<tr><td>[Drawsome][https://www.github.com/Katy600/drawApp]</td><td> Drawsome is an iOS drawing game application that allows players to draw and send pictures to their friends to guess</td><td>10 days</td><td>Swift 3, Xcode, Websockets, Node.js</td></tr>
-<tr><td>[Story-teller][https://www.github.com/Katy600/story-app]</td><td> Story-teller, is a JavaScript single-page application that allows children to dynamically select words to complete a story.</td><td>5 days</td><td> Javascript, JQuery, HTML, CSS </td></tr>
+<tr><td>[Drawsome](https://github.com/Katy600/drawApp)</td><td> Drawsome is an iOS drawing game application that allows players to draw and send pictures to their friends to guess</td><td>10 days</td><td>Swift 3, Xcode, Websockets, Node.js</td></tr>
+<tr><td>[Story-teller](https://github.com/Katy600/story-app)</td><td> Story-teller, is a JavaScript single-page application that allows children to dynamically select words to complete a story.</td><td>5 days</td><td> Javascript, JQuery, HTML, CSS </td></tr>
 </table>
 
 
