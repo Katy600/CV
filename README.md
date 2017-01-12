@@ -1,6 +1,6 @@
 ## Katy McCann
 
-I am a full stack junior developer and former primary school teacher.
+I am a full-stack junior developer recently graduated from [Makers Academy](http://www.makersacademy.com/) and former primary school teacher.
 From teacher to coder seemed at first, an unlikely transition but now in retrospect it was meant to be.
 
 Researching new material, communicating ideas effectively, designing visual and interactive learning experiences with the use of interactive whiteboards as well as the creative process of planning lessons, all now seem to align perfectly with my experience of evolving myself into a software developer.
