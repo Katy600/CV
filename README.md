@@ -9,7 +9,7 @@ I am now looking for a full stack junior developer role in a vibrant company wit
 
 ## Skills
 #### Communication skills
-As a teacher I develop skills such as being able to:
+As a former teacher I developed skills such as being able to:
 - Break down challenging concepts for a range of ages and levels.
 -  Share lesson plans effectively with colleagues.
 -  Deliver pupil feedback to parents in a professional yet approachable manner.
@@ -21,7 +21,7 @@ through discussion and diagramming.
 - Support each other in our differing ideas and stay open to change.
 
 #### Collaboration
-As part of a team within a school led me to value practices such as:
+Having been part of a team within a school this led me to value practices such as:
 - Regular planning meetings which create a sense of purpose and focus.
 - A culture of sharing resources, ideas, honest reflections and a mutual desire to improve our practice through creative and solution based approaches.
 
